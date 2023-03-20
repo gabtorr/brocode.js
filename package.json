@@ -1,23 +1,19 @@
 {
-  "name": "@rajesh896/broprint.js",
-  "version": "2.1.1",
-  "description": "The world's easiest, smallest and powerful visitor identifier for browsers.",
-  "main": "./lib/index.js",
-  "types": "./lib/index.d.ts",
-  "private": false,
+  "name": "brocode",
+  "version": "1.0.0",
+  "description": "Fork for broprint to obfuscate fingerprint retrrieving function",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "example": "example",
+    "lib": "lib"
+  },
   "scripts": {
-    "build:npm": "tsc",
-    "test": "echo \"Error: no test specified\" && exit 1 "
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rajesh-Royal/Broprint.js.git"
-  },
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
-  },
-  "bin": {
-    "getDeviceId()": "./lib/index.js"
+    "url": "git+https://github.com/gabtorr/brocode.js.git"
   },
   "keywords": [
     "browserfingerprint",
@@ -25,22 +21,17 @@
     "jsfingerprint",
     "uniquebrowserid",
     "nodejs",
-    "cryptography",
     "fraud-detection",
     "canvas-fingerprinting",
     "audio-fingerprinting",
-    "visitor-identifier",
-    "identification",
-    "reactjs",
-    "javascript",
-    "typescript"
+    "visitor-idenitifier",
+    "typescript",
+    "javascript"
   ],
   "author": "Rajesh-Royal",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Rajesh-Royal/Broprint.js/issues"
+    "url": "https://github.com/gabtorr/brocode.js/issues"
   },
-  "homepage": "https://github.com/Rajesh-Royal/Broprint.js#readme",
-  "dependencies": {},
-  "devDependencies": {}
+  "homepage": "https://github.com/gabtorr/brocode.js#readme"
 }
