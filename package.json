@@ -1,7 +1,7 @@
 {
   "name": "brocode-ev",
   "version": "1.0.0",
-  "description": "Fork for broprint to obfuscate fingerprint retrrieving function",
+  "description": "Fork of broprint package to obfuscate fingerprint retrieving function",
   "main": "index.js",
   "directories": {
     "doc": "docs",
