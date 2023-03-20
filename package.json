@@ -1,5 +1,5 @@
 {
-  "name": "brocode",
+  "name": "brocode-ev",
   "version": "1.0.0",
   "description": "Fork for broprint to obfuscate fingerprint retrrieving function",
   "main": "index.js",
