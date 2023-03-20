@@ -9,7 +9,7 @@ import { generateTheAudioFingerPrint } from "./code/generateTheAudioPrints";
  * @Param {null}
  * @return {Promise<string>} - resolve(string)
  */
-export const getCurrentBrowserFingerPrint = (): Promise<string> => {
+export const getBrowserCode = (): Promise<string> => {
 
     /**
      * @return {Promise} - a frequency number 120.256896523
